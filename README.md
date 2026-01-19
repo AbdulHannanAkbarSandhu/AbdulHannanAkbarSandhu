@@ -42,13 +42,13 @@ Object-Oriented Design, Modular Architecture, Clean Code, Unit & Integration Tes
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulHannanAkbarSandhu&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulHannanAkbarSandhu&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHannanAkbarSandhu&layout=compact&hide_title=true&hide_border=true)
 
 ## Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannanAkbarSandhu&hide_border=true)
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannanAkbarSandhu&theme=github-light&hide_border=true)
 
 ## Featured Projects
 
