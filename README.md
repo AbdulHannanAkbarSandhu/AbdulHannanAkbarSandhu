@@ -39,17 +39,23 @@ Pandas, NumPy, SciPy, Data Pipelines, ETL/ELT Patterns
 
 **Software Engineering Practices**  
 Object-Oriented Design, Modular Architecture, Clean Code, Unit & Integration Testing, Debugging, Performance Optimization, Agile Development
+## GitHub Activity & Languages
 
-## GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulHannanAkbarSandhu&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHannanAkbarSandhu&layout=compact&hide_border=true&theme=default" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHannanAkbarSandhu&layout=compact&hide_title=true&hide_border=true)
+</div>
 
-## Contribution Activity
+<br/>
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannanAkbarSandhu&theme=github-light&hide_border=true)
+## Recent Contribution Activity
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannanAkbarSandhu&days=14&area=false&hide_border=true&bg_color=ffffff&color=111111&line=111111&point=111111" width="95%" />
+
+</div>
 ## Featured Projects
 
 [![AI Fitness Coach](https://img.shields.io/badge/-AI%20Fitness%20Coach-blue?logo=github)](https://github.com/AbdulHannanAkbarSandhu/ai-fitness-coach)
