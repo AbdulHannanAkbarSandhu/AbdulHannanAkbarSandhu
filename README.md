@@ -56,6 +56,7 @@ Object-Oriented Design, Modular Architecture, Clean Code, Unit & Integration Tes
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHannanAkbarSandhu&days=14&area=false&hide_border=true&bg_color=ffffff&color=111111&line=111111&point=111111" width="95%" />
 
 </div>
+
 ## Featured Projects
 
 [![AI Fitness Coach](https://img.shields.io/badge/-AI%20Fitness%20Coach-blue?logo=github)](https://github.com/AbdulHannanAkbarSandhu/ai-fitness-coach)
